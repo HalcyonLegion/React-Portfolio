@@ -1,4 +1,6 @@
 {
+  "name": "react-portfolio",
+  "version": "1.0.0",
   "homepage": "https://HalcyonLegion.github.io/React-Portfolio",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
