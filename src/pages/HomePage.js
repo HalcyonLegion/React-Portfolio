@@ -10,7 +10,7 @@ function HomePage() {
           <p>Welcome to my Portfolio</p>
         </div>
         <div className="col-md-6">
-          <img className="img-fluid" src={`${process.env.PUBLIC_URL}/assets/images/leebary.png`} alt="Your headshot or avatar" />
+          <img className="img-fluid" src={`${process.env.PUBLIC_URL}/assets/images/Halcyonic-Clean.png`} alt="Your headshot or avatar" />
         </div>
       </div>
     </section>
