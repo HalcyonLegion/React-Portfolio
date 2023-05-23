@@ -5,7 +5,7 @@ function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
-        <Link className="navbar-brand" to="/">Lee Webb</Link>
+        <Link className="navbar-brand" to="/">Halcyonic Design</Link>
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
             <Link className="nav-link" to="/">Home</Link>

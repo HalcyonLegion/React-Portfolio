@@ -1,22 +1,22 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "../App.css";
 import Header from "../components/Header.js";
-import HomePage from "../pages/HomePage";
-import ProjectsPage from "../pages/ProjectsPage";
-import ContactPage from "../pages/ContactPage";
+import HomePage from "../pages/HomePage.js";
+import ProjectsPage from "../pages/ProjectsPage.js";
+import ContactPage from "../pages/ContactPage.js";
 
 function App() {
-  return (
-    <Router>
-      <Header />
-      <Routes>
-        <Route path="/" exact component={HomePage} />
-        <Route path="/projects" component={ProjectsPage} />
-        <Route path="/contact" component={ContactPage} />
-      </Routes>
-    </Router>
-  );
+    return (
+        <Router>
+            <Header />
+            <Routes>
+                <Route path="/" element={<HomePage />} />
+                <Route path="/projects" element={<ProjectsPage />} />
+                <Route path="/contact" element={<ContactPage />} />
+            </Routes>
+        </Router>
+    );
 }
 
 export default App;
