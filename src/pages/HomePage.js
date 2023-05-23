@@ -1,14 +1,19 @@
 import React from "react";
-import yourImage from "../assets/images/leebrary.jpg";
 
 function HomePage() {
   return (
-    <div>
-      <h1>Lee Webb</h1>
-      <img src={yourImage} alt="Your headshot or avatar" />
-      <p>Bringing your Vision to Life</p>
-      <p>Welcome to my Portfolio</p>
-    </div>
+    <section className="container">
+      <div className="row">
+        <div className="col-md-6">
+          <h1 className="display-4">Lee Webb</h1>
+          <p className="lead">Bringing Your Vision to Life</p>
+          <p>Welcome to my Portfolio</p>
+        </div>
+        <div className="col-md-6">
+          <img className="img-fluid" src={`${process.env.PUBLIC_URL}/assets/images/leebary.png`} alt="Your headshot or avatar" />
+        </div>
+      </div>
+    </section>
   );
 }
 
