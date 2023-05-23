@@ -17,15 +17,15 @@ Please visit this URL to see how the website looks now: https://halcyonlegion.gi
 
 Along the top of the page is a Navbar which takes you to different parts of the portfolio. These are driven by components and pages in React. My icon the Halcyonic Bird features on the homepage and has been updated. The nav bar persists across all pages as required, this is how the homepage looks, it contains some about me info, my name and some skills:
 
-![home](assets/images/.png)
+![home](./public/assets/images/homepage.jpg)
 
 The Projects section contains all of what I consider to be my best projects I have built over the course of this Bootcamp. They are presented as cards with pictures, links to deployed pages and repo urls. This format allows for plenty of expansion.
 
-![projects](assets/images/.png)
+![projects](./public/assets/images/projectspage.jpg)
 
 The Contact Me section has links to LinkedIn, Github and my CV, as well as my icon which will allow you to email my business email address halcyonicdesign.ai@gmail.com.
 
-![contact](assets/images/.png)
+![contact](./public/assets/images/contactpage.jpg)
 
 ## Credits
 
