@@ -11,7 +11,7 @@ I was tasked with recreating my earlier portfolio from the Module 2 and Module 3
 I keep in mind that students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after this bootcamp. Having several deployed projects is a minimum requirement to receive an initial interview at many companies.
 
 ## Installation
-Please visit this URL to see how the website looks now: https://halcyonlegion.github.io/React-Portfolio/
+Please visit this URL to see how the website looks now: https://halcyonlegion.github.io/
 
 ## Usage
 
