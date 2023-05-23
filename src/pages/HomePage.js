@@ -11,9 +11,9 @@ function HomePage() {
           <h2>About Me</h2>
           <p>
             I am an experienced Web Developer with a background in creating and maintaining dynamic
-            websites and web applications. Skilled in various programming languages and frameworks,
+            websites and web applications. I am skilled in various programming languages and frameworks,
             including HTML, CSS, JavaScript, Python, Flask, React and Node. A problem-solver with a
-            passion for creating visually appealing, user-friendly and accessible websites. I possess a
+            passion for creating visually appealing, user-friendly and accessible websites. I possess
             strong attention to detail, and I am deeply fascinated with the potential for new and emerging
             technologies, particularly AI. I am looking to bring my professional skills to a larger tech
             company with global reach.
