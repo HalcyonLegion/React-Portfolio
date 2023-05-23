@@ -11,7 +11,7 @@ function ContactPage() {
       <div className="row">
         <div className="col-md-6">
           <h2>Contact Information</h2>
-          <p className="lead">Email: leewebb55@hotmail.com</p>
+          <p className="lead">Email: halcyonicdesign.ai@gmail.com</p>
           <p>
             <a
               className="btn btn-outline-danger"
