@@ -1,4 +1,5 @@
 {
+  "homepage": "https://HalcyonLegion.github.io/React-Portfolio",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
@@ -6,6 +7,8 @@
     "react-router-dom": "^6.11.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
