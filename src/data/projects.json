@@ -1,9 +1,37 @@
 [
     {
       "id": 1,
-      "title": "Project 1",
-      "deployedUrl": "https://project1.example.com",
-      "repoUrl": "https://github.com/your-username/project1",
-      "imgSrc": "images/project1.jpg"
+      "title": "Password Generator",
+      "deployedUrl": "https://halcyonlegion.github.io/Module-5-Challenge-Password-Generator/",
+      "repoUrl": "https://github.com/HalcyonLegion/Module-5-Challenge-Password-Generator",
+      "imgSrc": "assets/images/passwordgen.png"
+    },
+    {
+      "id": 2,
+      "title": "Work Day Scheduler",
+      "deployedUrl": "https://halcyonlegion.github.io/Module-7-Challenge-Third-Party-APIs-Work-Day-Scheduler/",
+      "repoUrl": "https://github.com/HalcyonLegion/Module-7-Challenge-Third-Party-APIs-Work-Day-Scheduler",
+      "imgSrc": "assets/images/05-third-party-api-demo.gif"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "deployedUrl": "https://halcyonlegion.github.io/Module-8-Challenge-Server-Side-APIs-Weather-Dashboard/",
+      "repoUrl": "https://github.com/HalcyonLegion/Module-8-Challenge-Server-Side-APIs-Weather-Dashboard",
+      "imgSrc": "assets/images/weather.png"
+    },
+    {
+      "id": 4,
+      "title": "README File Generator",
+      "deployedUrl": "",
+      "repoUrl": "https://github.com/HalcyonLegion/Module-11-Challenge-Professional-README-Generator",
+      "imgSrc": "assets/images/readmesuccess.png"
+    },
+    {
+      "id": 5,
+      "title": "Team Profile Generator",
+      "deployedUrl": "",
+      "repoUrl": "https://github.com/HalcyonLegion/Team-Profile-Generator",
+      "imgSrc": "assets/images/teambuilderFinished.jpg"
     }
 ]
