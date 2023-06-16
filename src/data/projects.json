@@ -22,15 +22,13 @@
     },
     {
       "id": 4,
-      "title": "README File Generator",
-      "deployedUrl": "",
+      "title": "README File Generator - runs in terminal - see repo!",
       "repoUrl": "https://github.com/HalcyonLegion/Module-11-Challenge-Professional-README-Generator",
       "imgSrc": "assets/images/readmesuccess.png"
     },
     {
       "id": 5,
-      "title": "Team Profile Generator",
-      "deployedUrl": "",
+      "title": "Team Profile Generator - runs in terminal - see repo!",
       "repoUrl": "https://github.com/HalcyonLegion/Team-Profile-Generator",
       "imgSrc": "assets/images/teambuilderFinished.jpg"
     }
