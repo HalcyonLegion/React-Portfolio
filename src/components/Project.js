@@ -8,7 +8,7 @@ function Project(props) {
         <img className="card-img-top" src={`${process.env.PUBLIC_URL}/${imgSrc}`} alt="Screenshot or GIF of the application" />
         <div className="card-body">
           <h3 className="card-title">{title}</h3>
-          <a className="btn btn-primary btn-sm" href={deployedUrl}>Deployed Version</a>
+          {deployedUrl && <a className="btn btn-primary btn-sm" href={deployedUrl}>Deployed Version</a>}
           <a className="btn btn-secondary btn-sm" href={repoUrl}>GitHub Repository</a>
         </div>
       </div>
