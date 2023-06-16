@@ -4,7 +4,7 @@ import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
 
 function ContactPage() {
-  const cv = `${process.env.PUBLIC_URL}/assets/Lee Webb - Updated CV May 23 (Full Stack Web Developer).pdf`;
+  const cv = `${process.env.PUBLIC_URL}/assets/Lee Webb - Latest CV June 23 (Web Developer).pdf`;
 
   return (
     <section className="container mt-5">
