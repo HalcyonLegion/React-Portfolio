@@ -1,33 +1,47 @@
 [
     {
       "id": 1,
+      "title": "Vision AI",
+      "deployedUrl": "https://fantastic-malabi-2d898d.netlify.app/",
+      "repoUrl": "https://github.com/HalcyonLegion/Project-2-Vision-AI",
+      "imgSrc": "assets/images/visionaipage.png"
+    },
+    {
+      "id": 2,
+      "title": "AI Scheduling App",
+      "deployedUrl": "https://halcyonlegion.github.io/Module-5-Challenge-Password-Generator/",
+      "repoUrl": "https://github.com/HalcyonLegion/Life-Organiser-App",
+      "imgSrc": "assets/images/aischeduler.png"
+    },
+    {
+      "id": 3,
       "title": "Password Generator",
       "deployedUrl": "https://halcyonlegion.github.io/Module-5-Challenge-Password-Generator/",
       "repoUrl": "https://github.com/HalcyonLegion/Module-5-Challenge-Password-Generator",
       "imgSrc": "assets/images/passwordgen.png"
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Work Day Scheduler",
       "deployedUrl": "https://halcyonlegion.github.io/Module-7-Challenge-Third-Party-APIs-Work-Day-Scheduler/",
       "repoUrl": "https://github.com/HalcyonLegion/Module-7-Challenge-Third-Party-APIs-Work-Day-Scheduler",
       "imgSrc": "assets/images/05-third-party-api-demo.gif"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Weather Dashboard",
       "deployedUrl": "https://halcyonlegion.github.io/Module-8-Challenge-Server-Side-APIs-Weather-Dashboard/",
       "repoUrl": "https://github.com/HalcyonLegion/Module-8-Challenge-Server-Side-APIs-Weather-Dashboard",
       "imgSrc": "assets/images/weather.png"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "README File Generator - runs in terminal - see repo!",
       "repoUrl": "https://github.com/HalcyonLegion/Module-11-Challenge-Professional-README-Generator",
       "imgSrc": "assets/images/readmesuccess.png"
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Team Profile Generator - runs in terminal - see repo!",
       "repoUrl": "https://github.com/HalcyonLegion/Team-Profile-Generator",
       "imgSrc": "assets/images/teambuilderFinished.jpg"
