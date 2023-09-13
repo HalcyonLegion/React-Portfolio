@@ -4,7 +4,7 @@ import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
 
 function ContactPage() {
-  const cv = `${process.env.PUBLIC_URL}/assets/images/Lee Webb - CV.pdf`;
+  const cv = "https://drive.google.com/file/d/1_AdyW6pZ9kvVMQ7_f5CRXHAmwXlVOjyG/view?usp=drive_link";
 
   return (
     <section className="container mt-5">
